@@ -1,5 +1,6 @@
 package com.example.demo;
 
+import com.example.demo.Controller.SampleController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
