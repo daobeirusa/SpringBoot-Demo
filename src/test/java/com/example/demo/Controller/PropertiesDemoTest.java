@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.Controller;
 
 import com.example.demo.Controller.PropertiesDemo;
 import org.junit.Assert;
